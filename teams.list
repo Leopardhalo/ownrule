@@ -1,1 +1,90 @@
 DOMAIN-SUFFIX,teams.microsoft.com
+https://ss4.ef101.ninja
+https://ss.ef101.world
+https://s.uu101.me
+https://s.uu101.net
+https://s.uu101.org
+https://s.uu101.site
+https://cn.cv101.one
+https://cn.cu101.best
+*.ef101.*
+*.aitestgo.com
+connect.sap.com
+# Bank and Equity Provider Domains for OpenClash Direct Rule
+# Last Updated: 2025-09-22
+
+# -- HSBC (Global) --
+# Comprehensive list covering retail, corporate, and private banking worldwide.
+DOMAIN-SUFFIX,hsbc.com
+DOMAIN-SUFFIX,hsbc.co.uk
+DOMAIN-SUFFIX,hsbc.com.hk
+DOMAIN-SUFFIX,hsbc.ca
+DOMAIN-SUFFIX,hsbc.com.au
+DOMAIN-SUFFIX,hsbc.com.sg
+DOMAIN-SUFFIX,hsbc.com.my
+DOMAIN-SUFFIX,hsbc.co.in
+DOMAIN-SUFFIX,hsbc.fr
+DOMAIN-SUFFIX,hsbc.de
+DOMAIN-SUFFIX,hsbc.es
+DOMAIN-SUFFIX,hsbc.com.mx
+DOMAIN-SUFFIX,hsbc.com.ar
+DOMAIN-SUFFIX,hsbc.com.br
+DOMAIN-SUFFIX,hsbc.co.jp
+DOMAIN-SUFFIX,hsbc.co.th
+DOMAIN-SUFFIX,hsbc.com.tw
+DOMAIN-SUFFIX,hsbc.com.vn
+DOMAIN-SUFFIX,hsbc.ae
+DOMAIN-SUFFIX,hsbc.com.eg
+DOMAIN-SUFFIX,hsbc.co.za
+DOMAIN-SUFFIX,hsbcnet.com
+DOMAIN-SUFFIX,privatebanking.hsbc.com
+
+# -- Lloyds Bank UK --
+DOMAIN-SUFFIX,lloydsbank.com
+DOMAIN-SUFFIX,lloydsbankinggroup.com
+DOMAIN-SUFFIX,lloydsbankinggrouptalent.com
+
+# -- EquatePlus (Computershare) --
+# Employee stock plan management platform
+DOMAIN-SUFFIX,equateplus.com
+DOMAIN-SUFFIX,equateservice.equateplus.com
+DOMAIN-SUFFIX,computershare.com
+
+# -- US Banks --
+DOMAIN-SUFFIX,ally.com
+DOMAIN-SUFFIX,bankofamerica.com
+DOMAIN-SUFFIX,bbt.com
+DOMAIN-SUFFIX,bny.com
+DOMAIN-SUFFIX,bnymellon.com
+DOMAIN-SUFFIX,citi.com
+DOMAIN-SUFFIX,citibank.com
+DOMAIN-SUFFIX,citizensbank.com
+DOMAIN-SUFFIX,comerica.com
+DOMAIN-SUFFIX,discover.com
+DOMAIN-SUFFIX,53.com
+DOMAIN-SUFFIX,firstrepublic.com
+DOMAIN-SUFFIX,huntington.com
+DOMAIN-SUFFIX,key.com
+DOMAIN-SUFFIX,mcom.com
+DOMAIN-SUFFIX,mtb.com
+DOMAIN-SUFFIX,pnc.com
+DOMAIN-SUFFIX,regions.com
+DOMAIN-SUFFIX,suntrust.com
+DOMAIN-SUFFIX,td.com
+DOMAIN-SUFFIX,truist.com
+DOMAIN-SUFFIX,usbank.com
+DOMAIN-SUFFIX,wellsfargo.com
+DOMAIN-SUFFIX,jpmorganchase.com
+DOMAIN-SUFFIX,chase.com
+DOMAIN-SUFFIX,goldmansachs.com
+DOMAIN-SUFFIX,gs.com
+DOMAIN-SUFFIX,marcus.com
+DOMAIN-SUFFIX,morganstanley.com
+
+# -- UK Banks --
+DOMAIN-SUFFIX,barclays.co.uk
+DOMAIN-SUFFIX,barclays.com
+DOMAIN-SUFFIX,natwest.com
+DOMAIN-SUFFIX,santander.co.uk
+DOMAIN-SUFFIX,standardchartered.com
+
