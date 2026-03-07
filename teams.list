@@ -16,6 +16,9 @@ https://s.uu101.*
 *.ei101.*
 *.aitestgo.com
 connect.sap.com
+*.jumpdesktop.com
+*.neuron.jumpdesktop.com
+*.fluid-remote-desktop.com
 # Bank and Equity Provider Domains for OpenClash Direct Rule
 # Last Updated: 2025-09-22
 
