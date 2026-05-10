@@ -15,6 +15,7 @@ https://ss470.eh101.cam
 *.n101.*
 *.nn101.*
 *.download.real-debrid.com
+DOMAIN-SUFFIX,real-debrid.com
 https://*.uu101.*
 https://s.uu101.*
 *.ei101.*
