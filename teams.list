@@ -1,6 +1,16 @@
 DOMAIN-SUFFIX,teams.microsoft.com
 DOMAIN-SUFFIX,real-debrid.com
 DOMAIN-SUFFIX,download.real-debrid.com
+DOMAIN,store.steampowered.com
+DOMAIN,login.steampowered.com
+DOMAIN,checkout.steampowered.com
+DOMAIN,help.steampowered.com
+DOMAIN-SUFFIX,steampowered.com
+DOMAIN-SUFFIX,steamcontent.com
+DOMAIN-SUFFIX,steamusercontent.com
+DOMAIN-SUFFIX,steamstatic.com
+DOMAIN-SUFFIX,steamserver.net
+DOMAIN,steamcdn-a.akamaihd.net
 https://ss4.ef101.ninja
 https://ss.ef101.world
 https://s.uu101.me
