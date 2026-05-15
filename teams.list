@@ -11,6 +11,14 @@ DOMAIN-SUFFIX,steamusercontent.com
 DOMAIN-SUFFIX,steamstatic.com
 DOMAIN-SUFFIX,steamserver.net
 DOMAIN,steamcdn-a.akamaihd.net
+DOMAIN-SUFFIX,ef101.ninja
+DOMAIN-SUFFIX,ef101.world
+DOMAIN-KEYWORD,ef101
+DOMAIN-KEYWORD,uu101
+DOMAIN,connect.sap.com
+DOMAIN-SUFFIX,jumpdesktop.com
+DOMAIN-SUFFIX,neuron.jumpdesktop.com
+DOMAIN-SUFFIX,fluid-remote-desktop.com
 https://ss4.ef101.ninja
 https://ss.ef101.world
 https://s.uu101.me
