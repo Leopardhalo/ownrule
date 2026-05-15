@@ -20,29 +20,17 @@ DOMAIN,connect.sap.com
 DOMAIN-SUFFIX,jumpdesktop.com
 DOMAIN-SUFFIX,neuron.jumpdesktop.com
 DOMAIN-SUFFIX,fluid-remote-desktop.com
-https://ss4.ef101.ninja
-https://ss.ef101.world
-https://s.uu101.me
-https://s.uu101.net
-https://s.uu101.org
-https://s.uu101.site
-https://cn.cv101.one
-https://cn.cu101.best
-https://ss470.eh101.cam
-*.ef101.*
-*.eh101.*
-*.uu101.*
-*.ej101.*
-*.n101.*
-*.nn101.*
-https://*.uu101.*
-https://s.uu101.*
-*.ei101.*
-*.aitestgo.com
-connect.sap.com
-*.jumpdesktop.com
-*.neuron.jumpdesktop.com
-*.fluid-remote-desktop.com
+DOMAIN-KEYWORD,ef101
+DOMAIN-KEYWORD,eh101
+DOMAIN-KEYWORD,uu101
+DOMAIN-KEYWORD,ej101
+DOMAIN-KEYWORD,n101
+DOMAIN-KEYWORD,nn101
+DOMAIN-KEYWORD,ei101
+DOMAIN-KEYWORD,cv101
+DOMAIN-KEYWORD,cu101
+DOMAIN-SUFFIX,aitestgo.com
+
 # Bank and Equity Provider Domains for OpenClash Direct Rule
 # Last Updated: 2025-09-22
 
